@@ -2,7 +2,7 @@
 
 def start_game(player1, player2)
  names = "Hello #{player1} & #{playar2}"
- names
+ return names
 end
 
 def play_game(player2)
